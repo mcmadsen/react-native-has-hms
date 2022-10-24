@@ -82,7 +82,7 @@ repositories {
 }
 
 dependencies {
-    String HMSSDKVer ='6.4.0.303'
+    String HMSSDKVer ='6.3.0.304'
     String GMSSDKVer ='16.0.1'
 
     //noinspection GradleDynamicVersion
